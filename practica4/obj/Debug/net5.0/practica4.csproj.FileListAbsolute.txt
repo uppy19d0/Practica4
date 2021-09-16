@@ -1,0 +1,16 @@
+C:\Users\ltavarez\source\repos\practica4\practica4\bin\Debug\net5.0\practica4.exe
+C:\Users\ltavarez\source\repos\practica4\practica4\bin\Debug\net5.0\practica4.deps.json
+C:\Users\ltavarez\source\repos\practica4\practica4\bin\Debug\net5.0\practica4.runtimeconfig.json
+C:\Users\ltavarez\source\repos\practica4\practica4\bin\Debug\net5.0\practica4.runtimeconfig.dev.json
+C:\Users\ltavarez\source\repos\practica4\practica4\bin\Debug\net5.0\practica4.dll
+C:\Users\ltavarez\source\repos\practica4\practica4\bin\Debug\net5.0\ref\practica4.dll
+C:\Users\ltavarez\source\repos\practica4\practica4\bin\Debug\net5.0\practica4.pdb
+C:\Users\ltavarez\source\repos\practica4\practica4\obj\Debug\net5.0\practica4.csproj.AssemblyReference.cache
+C:\Users\ltavarez\source\repos\practica4\practica4\obj\Debug\net5.0\practica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltavarez\source\repos\practica4\practica4\obj\Debug\net5.0\practica4.AssemblyInfoInputs.cache
+C:\Users\ltavarez\source\repos\practica4\practica4\obj\Debug\net5.0\practica4.AssemblyInfo.cs
+C:\Users\ltavarez\source\repos\practica4\practica4\obj\Debug\net5.0\practica4.csproj.CoreCompileInputs.cache
+C:\Users\ltavarez\source\repos\practica4\practica4\obj\Debug\net5.0\practica4.dll
+C:\Users\ltavarez\source\repos\practica4\practica4\obj\Debug\net5.0\ref\practica4.dll
+C:\Users\ltavarez\source\repos\practica4\practica4\obj\Debug\net5.0\practica4.pdb
+C:\Users\ltavarez\source\repos\practica4\practica4\obj\Debug\net5.0\practica4.genruntimeconfig.cache
